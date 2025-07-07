@@ -1,5 +1,5 @@
 <!-- header -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=이영재의%20GitHub&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Info&fontSize=50&fontAlignY=40)
 
 <div align="center">
 
