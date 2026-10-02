@@ -3,6 +3,8 @@
 
 <div align="center">
 
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-YJ.DEV-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://yj901010.github.io)
+
 ### 🖥️ 사용 언어
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
